@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "joseorozco-hugo-cms",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "Pagina web personal",
+  "repository": "https://github.com/handark/joseorozco-hugo-cms",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
